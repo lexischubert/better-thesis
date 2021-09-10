@@ -1,0 +1,5 @@
+out/
+my_file/
+log/*.log
+data/
+!log/something_else.R 
